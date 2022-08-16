@@ -1,0 +1,115 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="743px" height="498px" viewBox="-0.5 -0.5 743 498" content="&lt;mxfile modified=&quot;2019-06-27T19:51:52.719Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36&quot; version=&quot;10.8.2&quot; etag=&quot;wZPlnZcaxB1YBEgoMMf6&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;KQ13uOhGOVln5QtL7Z7H&quot;&gt;7VpLc9owEP41nkkvGcvyAx9jAu2hmWaGmaY5OrYwmhiLEabg/vpKluSXTBo64GaKueBdafXY79Oy1mLA6frwmYab1QOJUWpYZnww4L1hWcC0J+yLawqhcRwoFAnFsexUKxb4F1KWUrvDMdq2OuaEpDnetJURyTIU5S1dSCnZt7stSdqedRMmSFMsojBV2lun1j/hOF9JPXD9uuELwslKTj6xPNHwEkavCSW7TM5oWHBZfkTzOlRjya1uV2FM9g0VnBlwSgnJxdP6MEUp965ynLCbH2mt9kNRlr/HwBIGP8N0Jzf/WOQrkpXejRH7urndFJ/kYvNCuajcIuKDAAMGS5ymU5ISWjZCYHrQZ9MF25ySV6RaMpIhrlRb5pYJDWPM1trpsyRZvpCzASk3JpiXH9VP8AfYTJa7QTRHh6MeAZWfGYMRWaOcFqyLNHB9CY0kL7BdIe8bRJhI3arBAVfahZJ9STV07X/2ICHohwNqcARFjtpgRNeMBrTN4dCwNTSecBbz8GKZ3x+uCAXbaqNgT3QULNO8DAqOhsJXnO0O14ZB9yT0YXCxk+BqGDyE0bfFtWHgu//wHHgaBprnUczyGCmi9IXsZ7UiKBWsgXsAs2SnwkBlONxJKIvveAbFxJeURK9CNcd8VZW3m95vw8j8z0K07dyXdmyDP5jSZOmUFJ+5qIT7Q0sqpCR2xbfSQmlLdjRCrawlD2mCFHD2qWCqUdTvvOuotK95ovrQrJR9cMr5Hglmyzg2mVVPpsYQ+5NmzYytMxI4vm41lPCLNlRJsMoP7+LcZOSc4hzUOeeOlPsD5RiuYdHotuEdtsfX7HcTDbv1+sIexIh/y2d/5LPis90TQ08mtDskod2zEdrp0MzxO4s5XwRVdxoj5apMvkU571TKeUNSzjsb5bwJHIxyYKScopzbQ7nJlVAOmO5wYc4aOfdGpji+nJw7U3Tty2aKQL+K/eCEPuC8wWcmPUsb/lyzmQuKzMMegqqoMh6CMx0Cz3Mvewj0G/ApWW9wiqh2GP7fW7/uzas1ZA0C6NffHzwOXS6mgJ53VnhyUDHbaEKzB80zxRTfOVK9OjWkdAeygXe5Sz+g3/bXda+bLDGm0AhsXiJmzzNgBIFxN2fSmjfcgauqFncrY86QFQGglwRUaWyEqR3Cu2/fg8Kk36Kr6tkI05v1tUvCxMT6bzYiStb/ZoKz3w==&lt;/diagram&gt;&lt;/mxfile&gt;"><style id="stylish-2" class="stylish" type="text/css">/* Common */
+ pre, tt, code {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+/* MSDN */
+ .codeSnippetContainerCode pre {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+/* Syntax Highlighter */
+ .syntaxhighlighter pre, .syntaxhighlighter code, .syntaxhighlighter .line .syntaxhighlighter textarea {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+/* ACE Editor */
+ .ace_editor {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.ace-tm {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.ace_content {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.sheet.selected {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+/* Code Mirror */
+ .CodeMirror {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+pre.resultarea, code {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+/* Blob */
+ .blob-code {
+    font-family:"Courier New" !important;
+    font-size: 12px !important;
+}
+.blob-num {
+    font-family:"Courier New" !important;
+    font-size: 12px !important;
+}
+.readme .plain pre {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.markdown-body pre code, .markdown-body pre tt {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.markdown-body code, .markdown-body tt {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.markdown-body .highlight pre, .markdown-body pre {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.commits-list-item .commit-desc pre {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.commit .commit-title, .commit .commit-title a {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.commit-desc pre {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.f5 {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.file-info {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.blob-code-inner {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.text-mono {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.input-monospace {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.crayon-font-consolas * {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.crayon-syntax .crayon-num, .crayon-syntax .crayon-pre .crayon-line, .crayon-syntax .crayon-toolbar *, .crayon-syntax .crayon-pre * {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.blob-code-inner, .blob-code-inner &gt; *, .CodeMirror pre &gt; span, .CodeMirror-linenumber {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge code {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}</style><defs/><g><rect x="270" y="0" width="186" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="270" y="0" width="186" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="362.5" y="34.5">Python code (.py)</text></g><rect x="270" y="194" width="186" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="270" y="194" width="186" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="362.5" y="228.5">Byte code (.pyc)</text></g><rect x="0" y="334" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="0" y="334" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="99.5" y="368.5">Windows VM</text></g><rect x="270" y="334" width="186" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="270" y="334" width="186" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="362.5" y="368.5">Linux VM</text></g><rect x="540" y="334" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="540" y="334" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="639.5" y="368.5">MacOS VM</text></g><path d="M 363 60 L 363 68.5 Q 363 77 363 78.26 L 363 79.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 89.53 L 358 79.53 L 368 79.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 254 L 363 284 Q 363 294 373 294 L 630 294 Q 640 294 640 304 L 640 319.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 640 329.53 L 635 319.53 L 645 319.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 100 394 L 100 404 Q 100 414 100 416.76 L 100 419.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 100 429.53 L 95 419.53 L 105 419.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 394 L 363 404 Q 363 414 363 416.76 L 363 419.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 429.53 L 358 419.53 L 368 419.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 640 394 L 640 404 Q 640 414 640 416.76 L 640 419.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 640 429.53 L 635 419.53 L 645 419.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 254 L 363 284 Q 363 294 353 294 L 110 294 Q 100 294 100 304 L 100 319.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 100 329.53 L 95 319.53 L 105 319.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 254 L 363 284 Q 363 294 363 304 L 363 319.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 329.53 L 358 319.53 L 368 319.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><rect x="270" y="94" width="186" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="270" y="94" width="186" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="362.5" y="128.5">Compiler</text></g><path d="M 363 154 L 363 164 Q 363 174 363 176.76 L 363 179.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><path d="M 363 189.53 L 358 179.53 L 368 179.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/><rect x="0" y="434" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="0" y="434" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="99.5" y="468.5">Windows (ngôn ngữ máy)</text></g><rect x="263" y="434" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="263" y="434" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="362.5" y="468.5">Linux (ngôn ngữ máy)</text></g><rect x="540" y="434" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" transform="translate(2,3)" opacity="0.25"/><rect x="540" y="434" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="none"/><g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px"><text x="639.5" y="468.5">MacOS (ngôn ngữ máy)</text></g></g></svg>
